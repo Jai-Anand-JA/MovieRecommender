@@ -43,7 +43,7 @@ Built using a **user-movie rating pivot table** and **Pearson correlation** to c
    `cd MovieRecommender`
 
 3. Run the html or ipynb files after downloading the required datasets
-4. 
+
 5. Make sure to upload `movies.csv` and `ratings.csv` when prompted.
 
 ---
