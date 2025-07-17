@@ -30,7 +30,7 @@ Built using a **user-movie rating pivot table** and **Pearson correlation** to c
 - `Pandas` for data manipulation
 - `Scikit-learn` for TF-IDF & cosine similarity
 - `NumPy` for matrix operations
-- `Matplotlib` / `Seaborn` *(optional)* for visualizations
+- `Matplotlib` for visualizations
 
 ---
 
